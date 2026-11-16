@@ -1302,6 +1302,8 @@ These ship in the next version.
 - ✅ A menu's underlined letter runs its item without typing that letter into the text box under
   the menu, the arrows move in the menu only, and Alt with a dialog's letter types nothing either;
   letters of other scripts (Arabic, Russian) choose their menu item
+- ✅ Torrents: peers at addresses that can't be on the internet are left alone, whoever names
+  them (a tracker, the DHT, another peer), as trackers there already were
 
 ## Being worked on
 
